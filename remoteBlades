@@ -5,5 +5,18 @@
     "material" : "Stainless Steel",
     "origin" : "Russia",
     "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/gillette_platinum.jpeg"
+  },
+  {
+    "brand" : "Asco",
+    "name" : "Super Stainless",
+    "material" : "Stainless Steel",
+    "imageURL" : "https://cdn.shopify.com/s/files/1/1701/0743/products/Asco-Super-Stainless-Steel-Red-Double-Edge-Razor-Blade-10-Pack_5000x.png?v=1638700585"
+  },
+  {
+    "brand" : "Astra",
+    "name" : "Green",
+    "material" : "Platinum",
+    "origin" : "Czech Republic",
+    "imageURL" : "https://cdn.shopify.com/s/files/1/0463/9155/8297/products/astra-astra-green-platinum-double-edge-razor-blades-30501304336537_1080x_2c7815b7-c012-4bb7-8745-5fa7ca153942_798x1025.jpg?v=1642450104"
   }
 ]
