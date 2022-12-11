@@ -163,144 +163,144 @@
       "name" : "Inoxidable",
       "material" : "Stainless",
       "origin" : "Germany",
-      "imageURL" : ""
+      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/elios-inoxidable.jpeg"
     },
     {
       "brand" : "Euromax",
       "name" : "Platinum",
       "material" : "Platinum",
       "origin" : "United Emirates",
-      "imageURL" : ""
+      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/euromax-platinum.png"
     },
     {
       "brand" : "Gillette",
       "name" : "365",
       "material" : "Stainless",
       "origin" : "India",
-      "imageURL" : ""
+      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/gillette-365-stainless.jpeg"
     },
     {
       "brand" : "Gillette",
       "name" : "7 O'clock Permasharp Stainless",
       "material" : "Stainless",
       "origin" : "India",
-      "imageURL" : ""
+      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/gillette-permasharp-stainless.jpeg"
     },
     {
       "brand" : "Gillette",
       "name" : "7 O'Clock Super Stainless",
       "material" : "Stainless",
       "origin" : "Russia",
-      "imageURL" : ""
+      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/gillette-7-oclock-super-stainless.jpeg"
     },
     {
       "brand" : "Gillette",
       "name" : "Platinum",
       "material" : "Platinum",
       "origin" : "Russia",
-      "imageURL" : ""
+      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/gillette-platinum.jpeg"
     },
     {
       "brand" : "Gillette",
       "name" : "Silver Blue",
       "material" : "PTFE (Teflong",
       "origin" : "Russia",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/Gillette-Silver-Blue-Double-Edge-Safety-Blade-5-Pack_5000x.webp"
+      "imageURL" : ""
     },
     {
       "brand" : "Gillette",
       "name" : "Sputnik",
       "material" : "Teflon",
       "origin" : "India",
-      "imageURL" : ""
+      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/gillette-sputnik.jpeg"
     },
     {
       "brand" : "Ladas",
       "name" : "Super Stainless",
       "material" : "Stainless",
       "origin" : "Russia",
-      "imageURL" : ""
+      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/ladas-super-stainless.jpeg"
     },
     {
       "brand" : "Laser",
       "name" : "Super Platinum",
       "material" : "Platinum",
       "origin" : "India",
-      "imageURL" : ""
+      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/laser-super-platinum.jpeg"
     },
     {
       "brand" : "Laser",
       "name" : "Ultra",
       "material" : "Triple Coated",
       "origin" : "India",
-      "imageURL" : ""
+      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/laser-ultra.jpeg"
     },
     {
       "brand" : "Lord",
       "name" : "Clasic Super Stainless",
       "material" : "Stainless",
       "origin" : "Egypt",
-      "imageURL" : ""
+      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/lord-classic-super-stainless.jpeg"
     },
     {
       "brand" : "Lord",
       "name" : "Platinum",
       "material" : "Platinum",
       "origin" : "Egypt",
-      "imageURL" : ""
+      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/lord-platinum.jpeg"
     },
     {
       "brand" : "Lord",
       "name" : "Super Chrome",
       "material" : "Chrome",
       "origin" : "Egypt",
-      "imageURL" : ""
+      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/lord-super-chrome.jpeg"
     },
     {
       "brand" : "Lord",
       "name" : "Super Stainless",
       "material" : "Stainless",
       "origin" : "Egypt",
-      "imageURL" : ""
+      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/lord-super-stainless.jpeg"
     },
     {
       "brand" : "Parker",
       "name" : "Premium Platinum",
       "material" : "Chromium-Ceramic-Platinum-Tungsten and Polymer",
       "origin" : "Turkey",
-      "imageURL" : ""
+      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/parker-premium-platinum.jpeg"
     },
     {
       "brand" : "Patrix",
       "name" : "Super Stainless",
       "material" : "Stainless",
       "origin" : "China",
-      "imageURL" : ""
+      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/patrix-super-stainless.jpeg"
     },
     {
       "brand" : "Gillette",
       "name" : "Perma-Sharp Super",
       "origin" : "Russia",
-      "imageURL" : ""
+      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/perma-sharp-jpg.jpeg"
     },
     {
       "brand" : "Quality Club",
       "name" : "Stainless",
-      "imageURL" : ""
+      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/quality-club-stainless.jpeg"
     },
     {
       "brand" : "Lord",
       "name" : "Racker Super Stainless",
       "material" : "Stainless (PTFE - Teflon)",
       "origin" : "Egypt",
-      "imageURL" : ""
+      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/racer-super-stainless.jpeg"
     },
     {
       "brand" : "Lord",
       "name" : "Rainbow Super Stainless",
       "material" : "Stainless",
       "origin" : "Egypt",
-      "imageURL" : ""
+      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/rainbow-super-stainless.jpeg"
     },
     {
       "brand" : "Personna",
@@ -321,28 +321,28 @@
       "name" : "Platinum Lux",
       "material" : "Platinum",
       "origin" : "Russia",
-      "imageURL" : ""
+      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/rapira-platinum-lux.jpeg"
     },
     {
       "brand" : "Rapira",
       "name" : "Stainless Chrome",
       "material" : "Stainless (Chrome)",
       "origin" : "Russia",
-      "imageURL" : ""
+      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/rapira-stainless.jpeg"
     },
     {
       "brand" : "Rapira",
       "name" : "Super Stainless",
       "material" : "Stainless",
       "origin" : "Russia",
-      "imageURL" : ""
+      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/rapira-super-stainless.jpeg"
     },
     {
       "brand" : "Rapira",
       "name" : "Sweedish Super Steel",
       "material" : "Sweedish Steel",
       "origin" : "Russia",
-      "imageURL" : ""
+      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/rapira-swedish-supersteel.jpeg"
     },
     {
       "brand" : "Rise",
