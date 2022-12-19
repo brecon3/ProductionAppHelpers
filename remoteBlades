@@ -1,633 +1,626 @@
-
 [
-    {
-      "brand" : "Asco",
-      "name" : "Super Stainless (Orange)",
-      "material" : "Stainless (PTFE)",
-      "origin" : "Egypt",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/Lord-Asco-Orange-Double-Edge-Razor-Blades_Super-Stainless_1024x1024@2x.jpeg"
-    },
-    {
-      "brand" : "Asco",
-      "name" : "Super Stainless (Red/Blue)",
-      "material" : "Stainless",
-      "origin" : "Egypt",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/asco-super-stainless-red-blue.jpeg"
-    },
-    {
-      "brand" : "Asco",
-      "name" : "Super Stainless (Red)",
-      "material" : "Stainless",
-      "origin" : "Egypt",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/asco-super-stainless.jpeg"
-    },
-    {
-      "brand" : "BIC",
-      "name" : "Astor Stainless",
-      "material" : "Stainless",
-      "origin" : "Greece",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/bic-astor-stainless.jpeg"
-    },
-    {
-      "brand" : "BIC",
-      "name" : "Chrome Platimum",
-      "material" : "Polymeric. Chrome Platinum, Teflon",
-      "origin" : "Greece",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/bic-5-chrome-platinum.jpeg"
-    },
-    {
-      "brand" : "Baili",
-      "name" : "Super Blue",
-      "material" : "Platinum, Teflon",
-      "origin" : "China",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/baili-super-blue.jpeg"
-    },
-    {
-      "brand" : "Lord",
-      "name" : "Big Ben - Super Stainless",
-      "material" : "Stainless",
-      "origin" : "Egypt",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/big-ben-blue.jpeg"
-    },
-    {
-      "brand" : "Derby",
-      "name" : "Blue Bird - Hi Stainless",
-      "material" : "Chromium-Ceramic-Tungsten and Polymer",
-      "origin" : "Turkey",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/blue-bird-stainless.jpeg"
-    },
-    {
-      "brand" : "Bolzano",
-      "name" : "Superinox Inossidabile",
-      "material" : "Titanium",
-      "origin" : "Germany",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/bolzano-superinox-inossidabile.jpeg"
-    },
-    {
-      "brand" : "Shanghai Cloud",
-      "name" : "Cloud",
-      "origin" : "China",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/cloud.jpeg"
-    },
-    {
-      "brand" : "Croma",
-      "name" : "Diamant",
-      "material" : "Chrome, Teflon",
-      "origin" : "Germany",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/croma-diamant1.jpeg"
-    },
-    {
-      "brand" : "Lord",
-      "name" : "Crown Platinum",
-      "material" : "Platinum",
-      "origin" : "Egypt",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/crown-platinum.jpeg"
-    },
-    {
-      "brand" : "Lord",
-      "name" : "Crown Stainless",
-      "material" : "Stainless",
-      "origin" : "Egypt",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/crown-stainless.jpeg"
-    },
-    {
-      "brand" : "American Safety Razor",
-      "name" : "Crystal",
-      "material" : "Platinum Chrome",
-      "origin" : "Israel",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/crystal.jpeg"
-    },
-    {
-      "brand" : "Derby",
-      "name" : "Extra",
-      "material" : "Chromium-Ceramic-Platinum-Tungsten and Polymer",
-      "origin" : "Turkey",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/derby-extra.jpeg"
-    },
-    {
-      "brand" : "Derby",
-      "name" : "Premium",
-      "material" : "Chromium-Ceramic-Platinum-Tungsten and Polymer",
-      "origin" : "Turkey",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/derby-premium.jpeg"
-    },
-    {
-      "brand" : "Derby",
-      "name" : "Usta",
-      "origin" : "Turkey",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/derby-usta.jpeg"
-    },
-    {
-      "brand" : "Fromm",
-      "name" : "Diane",
-      "material" : "Sweedish Steel Platinum Ceramic",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/diane-ceramic.jpeg"
-    },
-    {
-      "brand" : "Dollar",
-      "name" : "Platinum",
-      "material" : "Platinum",
-      "origin" : "India",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/dollar-platinum.jpeg"
-    },
-    {
-      "brand" : "Dorco",
-      "name" : "Prime Platinum",
-      "material" : "Platinum",
-      "origin" : "South Korea",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/dorco-prime-platinum.jpeg"
-    },
-    {
-      "brand" : "Dorco",
-      "name" : "ST-300 Platinum",
-      "material" : "Stainless (Platinum, PTFE)",
-      "origin" : "South Korea",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/dorco-st300-platinum.jpeg"
-    },
-    {
-      "brand" : "Dorco",
-      "name" : "ST-301 Stainless",
-      "material" : "Stainless (Platinum, PTFE)",
-      "origin" : "South Korea",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/dorco-st-301.jpeg"
-    },
-    {
-      "brand" : "Dorco",
-      "name" : "Titan",
-      "material" : "Stainless",
-      "origin" : "Vietnam",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/dorco-titan-stainless.jpeg"
-    },
-    {
-      "brand" : "Elios",
-      "name" : "Inoxidable",
-      "material" : "Stainless",
-      "origin" : "Germany",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/elios-inoxidable.jpeg"
-    },
-    {
-      "brand" : "Euromax",
-      "name" : "Platinum",
-      "material" : "Platinum",
-      "origin" : "United Emirates",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/euromax-platinum.png"
-    },
-    {
-      "brand" : "Gillette",
-      "name" : "365",
-      "material" : "Stainless",
-      "origin" : "India",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/gillette-365-stainless.jpeg"
-    },
-    {
-      "brand" : "Gillette",
-      "name" : "7 O'clock Permasharp Stainless",
-      "material" : "Stainless",
-      "origin" : "India",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/gillette-permasharp-stainless.jpeg"
-    },
-    {
-      "brand" : "Gillette",
-      "name" : "7 O'Clock Super Stainless",
-      "material" : "Stainless",
-      "origin" : "Russia",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/gillette-7-oclock-super-stainless.jpeg"
-    },
-    {
-      "brand" : "Gillette",
-      "name" : "Platinum",
-      "material" : "Platinum",
-      "origin" : "Russia",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/gillette-platinum.jpeg"
-    },
-    {
-      "brand" : "Gillette",
-      "name" : "Silver Blue",
-      "material" : "PTFE (Teflong",
-      "origin" : "Russia",
-      "imageURL" : ""
-    },
-    {
-      "brand" : "Gillette",
-      "name" : "Sputnik",
-      "material" : "Teflon",
-      "origin" : "India",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/gillette-sputnik.jpeg"
-    },
-    {
-      "brand" : "Ladas",
-      "name" : "Super Stainless",
-      "material" : "Stainless",
-      "origin" : "Russia",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/ladas-super-stainless.jpeg"
-    },
-    {
-      "brand" : "Laser",
-      "name" : "Super Platinum",
-      "material" : "Platinum",
-      "origin" : "India",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/laser-super-platinum.jpeg"
-    },
-    {
-      "brand" : "Laser",
-      "name" : "Ultra",
-      "material" : "Triple Coated",
-      "origin" : "India",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/laser-ultra.jpeg"
-    },
-    {
-      "brand" : "Lord",
-      "name" : "Clasic Super Stainless",
-      "material" : "Stainless",
-      "origin" : "Egypt",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/lord-classic-super-stainless.jpeg"
-    },
-    {
-      "brand" : "Lord",
-      "name" : "Platinum",
-      "material" : "Platinum",
-      "origin" : "Egypt",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/lord-platinum.jpeg"
-    },
-    {
-      "brand" : "Lord",
-      "name" : "Super Chrome",
-      "material" : "Chrome",
-      "origin" : "Egypt",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/lord-super-chrome.jpeg"
-    },
-    {
-      "brand" : "Lord",
-      "name" : "Super Stainless",
-      "material" : "Stainless",
-      "origin" : "Egypt",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/lord-super-stainless.jpeg"
-    },
-    {
-      "brand" : "Parker",
-      "name" : "Premium Platinum",
-      "material" : "Chromium-Ceramic-Platinum-Tungsten and Polymer",
-      "origin" : "Turkey",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/parker-premium-platinum.jpeg"
-    },
-    {
-      "brand" : "Patrix",
-      "name" : "Super Stainless",
-      "material" : "Stainless",
-      "origin" : "China",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/patrix-super-stainless.jpeg"
-    },
-    {
-      "brand" : "Gillette",
-      "name" : "Perma-Sharp Super",
-      "origin" : "Russia",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/perma-sharp-jpg.jpeg"
-    },
-    {
-      "brand" : "Quality Club",
-      "name" : "Stainless",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/quality-club-stainless.jpeg"
-    },
-    {
-      "brand" : "Lord",
-      "name" : "Racker Super Stainless",
-      "material" : "Stainless (PTFE - Teflon)",
-      "origin" : "Egypt",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/racer-super-stainless.jpeg"
-    },
-    {
-      "brand" : "Lord",
-      "name" : "Rainbow Super Stainless",
-      "material" : "Stainless",
-      "origin" : "Egypt",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/rainbow-super-stainless.jpeg"
-    },
-    {
-      "brand" : "Personna",
-      "name" : "Comfort Coated",
-      "material" : "Stainless Steel",
-      "origin" : "USA",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/Personna-Comfort-Coated-Double-Edge-Razor-Blades-5-Pack_1024x1024@2x.png"
-    },
-    {
-      "brand" : "Pro 500",
-      "name" : "Super Platinum",
-      "material" : "Platinum",
-      "origin" : "India",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/Pro-500-Super-Platinum-Razor-Blades-Edited_1024x1024@2x.png"
-    },
-    {
-      "brand" : "Rapira",
-      "name" : "Platinum Lux",
-      "material" : "Platinum",
-      "origin" : "Russia",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/rapira-platinum-lux.jpeg"
-    },
-    {
-      "brand" : "Rapira",
-      "name" : "Stainless Chrome",
-      "material" : "Stainless (Chrome)",
-      "origin" : "Russia",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/rapira-stainless.jpeg"
-    },
-    {
-      "brand" : "Rapira",
-      "name" : "Super Stainless",
-      "material" : "Stainless",
-      "origin" : "Russia",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/rapira-super-stainless.jpeg"
-    },
-    {
-      "brand" : "Rapira",
-      "name" : "Sweedish Super Steel",
-      "material" : "Sweedish Steel",
-      "origin" : "Russia",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/rapira-swedish-supersteel.jpeg"
-    },
-    {
-      "brand" : "Rise",
-      "name" : "Stainless",
-      "material" : "Stainless",
-      "origin" : "India",
-      "imageURL" : ""
-    },
-    {
-      "brand" : "Rockwell Razors",
-      "name" : "Sweedish Stainless",
-      "material" : "Sweedish Steel",
-      "origin" : "USA",
-      "imageURL" : ""
-    },
-    {
-      "brand" : "Lord",
-      "name" : "Shark - Platinum",
-      "material" : "Platinum",
-      "origin" : "Egypt",
-      "imageURL" : ""
-    },
-    {
-      "brand" : "Lord",
-      "name" : "Shark - Super Chrome",
-      "material" : "Chrome",
-      "origin" : "Egypt",
-      "imageURL" : ""
-    },
-    {
-      "brand" : "Lord",
-      "name" : "Shark - Super Stainless",
-      "material" : "Stainless Steel",
-      "origin" : "Egypt",
-      "imageURL" : ""
-    },
-    {
-      "brand" : "Schick",
-      "name" : "Double Edge",
-      "material" : "Stainless Steel (Triple Coated)",
-      "origin" : "Germany",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/Schick-Double-Edge-Razor-Blades_5-Pack_3b19f396-f3b1-4e21-b5b8-b12627a43fc5_1024x1024@2x.png"
-    },
-    {
-      "brand" : "Sharp Stainless",
-      "name" : "Hi Chromium",
-      "material" : "Polymer",
-      "origin" : "Bangladesh",
-      "imageURL" : ""
-    },
-    {
-      "brand" : "Shaverboy",
-      "name" : "Super Stainless",
-      "material" : "Stainless Steel",
-      "origin" : "Canada",
-      "imageURL" : ""
-    },
-    {
-      "brand" : "Lord",
-      "name" : "Silver Star - Stainless",
-      "material" : "Stainless Steel",
-      "origin" : "Egypt",
-      "imageURL" : ""
-    },
-    {
-      "brand" : "Super Max",
-      "name" : "Blue Diamond",
-      "material" : "Titanium",
-      "origin" : "India",
-      "imageURL" : ""
-    },
-    {
-      "brand" : "Super Max",
-      "name" : "Diamond Edge",
-      "material" : "Platinum",
-      "origin" : "India",
-      "imageURL" : ""
-    },
-    {
-      "brand" : "Super Max",
-      "name" : "Platinum",
-      "material" : "Platinum",
-      "origin" : "India",
-      "imageURL" : ""
-    },
-    {
-      "brand" : "Super Max",
-      "name" : "Platinum Plus",
-      "material" : "Platinum",
-      "origin" : "India",
-      "imageURL" : ""
-    },
-    {
-      "brand" : "Super Max",
-      "name" : "Platinum",
-      "material" : "Super Platinum",
-      "origin" : "India",
-      "imageURL" : ""
-    },
-    {
-      "brand" : "Super Max",
-      "name" : "Super Stainless",
-      "material" : "Stainless Steel",
-      "origin" : "India",
-      "imageURL" : ""
-    },
-    {
-      "brand" : "Super Max",
-      "name" : "Titanium",
-      "material" : "Titanium",
-      "origin" : "India",
-      "imageURL" : ""
-    },
-    {
-      "brand" : "Statum",
-      "name" : "Platinum Chrome Sputtered",
-      "material" : "Platinum Chrome",
-      "origin" : "India",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/Statum-Platinum-Chrome-Sputtered-Razor-Blades-Edited_1024x1024@2x.png"
-    },
-    {
-      "brand" : "Tatra",
-      "name" : "Platinum",
-      "material" : "Stainless (Platinum)",
-      "origin" : "Czech Republic",
-      "imageURL" : ""
-    },
-    {
-      "brand" : "Tatra",
-      "name" : "Carbon Steel",
-      "material" : "Carbon Steel",
-      "origin" : "Czech Republic",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/Tatra-Carbon-Steel.png"
-    },
-    {
-      "brand" : "Tiger",
-      "name" : "Platinum",
-      "material" : "Stainless (Platinum)",
-      "origin" : "Czech Republic",
-      "imageURL" : ""
-    },
-    {
-      "brand" : "Timor",
-      "name" : "Stainless Steel",
-      "material" : "Stainless Steel (Ice Tempered)",
-      "origin" : "Germany",
-      "imageURL" : ""
-    },
-    {
-      "brand" : "Topaz",
-      "name" : "Platinum",
-      "material" : "Platinum",
-      "origin" : "India",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/Topaz-Platinum-Sputtered-Edges-Razor-Blades-Edited_360x.png"
-    },
-    {
-      "brand" : "Topaz",
-      "name" : "Stainless",
-      "material" : "Stainless Steel",
-      "origin" : "India",
-      "imageURL" : ""
-    },
-    {
-      "brand" : "Treet",
-      "name" : "7 Day Platinum",
-      "material" : "Platinum",
-      "origin" : "Pakistan",
-      "imageURL" : ""
-    },
-    {
-      "brand" : "Treet",
-      "name" : "Durasharp",
-      "material" : "PTFE (Teflon)",
-      "origin" : "Pakistan",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/Treet-Dura-Sharp-PTFE-Teflon-Double-Edge-Blades-Pack-of-10-Blades_1024x1024@2x.png"
-    },
-    {
-      "brand" : "Treet",
-      "name" : "Carbon Steel",
-      "material" : "Carbon Steel",
-      "origin" : "Pakistan",
-      "imageURL" : ""
-    },
-    {
-      "brand" : "Treet",
-      "name" : "Classic",
-      "material" : "Carbon Steel",
-      "origin" : "Pakistan",
-      "imageURL" : ""
-    },
-    {
-      "brand" : "Treet",
-      "name" : "Falcon",
-      "material" : "Carbon Steel",
-      "origin" : "Pakistan",
-      "imageURL" : ""
-    },
-    {
-      "brand" : "Treet",
-      "name" : "New Edge Carbon",
-      "material" : "Carbon Steel",
-      "origin" : "Pakistan",
-      "imageURL" : ""
-    },
-    {
-      "brand" : "Treet",
-      "name" : "Platinum",
-      "material" : "Super Stainless Steel (Platinum)",
-      "origin" : "Pakistan",
-      "imageURL" : ""
-    },
-    {
-      "brand" : "Treet",
-      "name" : "Trig",
-      "material" : "Stainless Steel (PTFE - Teflon)",
-      "origin" : "Pakistan",
-      "imageURL" : ""
-    },
-    {
-      "brand" : "V12",
-      "name" : "Super Platinum",
-      "material" : "Steel (Platinum",
-      "origin" : "India",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/V12-Super-Platinum-Razor-Blades-Edited_1024x1024@2x.png"
-    },
-    {
-      "brand" : "Vijay",
-      "name" : "Stainless",
-      "material" : "Stainless Steel",
-      "origin" : "India",
-      "imageURL" : ""
-    },
-    {
-      "brand" : "Vincent",
-      "name" : "VT300B",
-      "origin" : "China",
-      "imageURL" : ""
-    },
-    {
-      "brand" : "Voskhod",
-      "name" : "Teflon",
-      "material" : "PTFE (Teflon)",
-      "origin" : "Pakistan",
-      "imageURL" : ""
-    },
-    {
-      "brand" : "Gillette",
-      "name" : "Wilkinson Sword",
-      "material" : "Platinum",
-      "origin" : "India",
-      "imageURL" : ""
-    },
-    {
-      "brand" : "ZAZA",
-      "name" : "Super Stainless",
-      "material" : "Stainless Steel",
-      "origin" : "Turkey",
-      "imageURL" : ""
-    },
-    {
-      "brand" : "Zorrik",
-      "name" : "Super Platinum",
-      "material" : "Platinum",
-      "origin" : "India",
-      "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/Zorrik-Super-Platinum-Razor-Blade-Edited_360x.png"
-    },
-    
-    
-    
-    
-    
-    
-    
   {
-    "brand" : "Gillette",
-    "name" : "Platinum",
-    "material" : "Stainless Steel",
-    "origin" : "Russia",
-    "imageURL" : "https://f004.backblazeb2.com/file/MSD-bladeImages/gillette_platinum.jpeg"
+    "brand": "Asco",
+    "name": "Super Stainless (Orange)",
+    "material": "Stainless (PTFE)",
+    "origin": "Egypt",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/Lord-Asco-Orange-Double-Edge-Razor-Blades_Super-Stainless_1024x1024@2x.jpeg"
   },
   {
-    "brand" : "Astra",
-    "name" : "Green",
-    "material" : "Platinum",
-    "origin" : "Czech Republic",
-    "imageURL" : "https://cdn.shopify.com/s/files/1/0463/9155/8297/products/astra-astra-green-platinum-double-edge-razor-blades-30501304336537_1080x_2c7815b7-c012-4bb7-8745-5fa7ca153942_798x1025.jpg?v=1642450104"
+    "brand": "Asco",
+    "name": "Super Stainless (Red/Blue)",
+    "material": "Stainless",
+    "origin": "Egypt",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/asco-super-stainless-red-blue.jpeg"
+  },
+  {
+    "brand": "Asco",
+    "name": "Super Stainless (Red)",
+    "material": "Stainless",
+    "origin": "Egypt",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/asco-super-stainless.jpeg"
+  },
+  {
+    "brand": "BIC",
+    "name": "Astor Stainless",
+    "material": "Stainless",
+    "origin": "Greece",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/bic-astor-stainless.jpeg"
+  },
+  {
+    "brand": "BIC",
+    "name": "Chrome Platimum",
+    "material": "Polymeric. Chrome Platinum, Teflon",
+    "origin": "Greece",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/bic-5-chrome-platinum.jpeg"
+  },
+  {
+    "brand": "Baili",
+    "name": "Super Blue",
+    "material": "Platinum, Teflon",
+    "origin": "China",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/baili-super-blue.jpeg"
+  },
+  {
+    "brand": "Lord",
+    "name": "Big Ben - Super Stainless",
+    "material": "Stainless",
+    "origin": "Egypt",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/big-ben-blue.jpeg"
+  },
+  {
+    "brand": "Derby",
+    "name": "Blue Bird - Hi Stainless",
+    "material": "Chromium-Ceramic-Tungsten and Polymer",
+    "origin": "Turkey",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/blue-bird-stainless.jpeg"
+  },
+  {
+    "brand": "Bolzano",
+    "name": "Superinox Inossidabile",
+    "material": "Titanium",
+    "origin": "Germany",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/bolzano-superinox-inossidabile.jpeg"
+  },
+  {
+    "brand": "Shanghai Cloud",
+    "name": "Cloud",
+    "origin": "China",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/cloud.jpeg"
+  },
+  {
+    "brand": "Croma",
+    "name": "Diamant",
+    "material": "Chrome, Teflon",
+    "origin": "Germany",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/croma-diamant1.jpeg"
+  },
+  {
+    "brand": "Lord",
+    "name": "Crown Platinum",
+    "material": "Platinum",
+    "origin": "Egypt",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/crown-platinum.jpeg"
+  },
+  {
+    "brand": "Lord",
+    "name": "Crown Stainless",
+    "material": "Stainless",
+    "origin": "Egypt",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/crown-stainless.jpeg"
+  },
+  {
+    "brand": "American Safety Razor",
+    "name": "Crystal",
+    "material": "Platinum Chrome",
+    "origin": "Israel",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/crystal.jpeg"
+  },
+  {
+    "brand": "Derby",
+    "name": "Extra",
+    "material": "Chromium-Ceramic-Platinum-Tungsten and Polymer",
+    "origin": "Turkey",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/derby-extra.jpeg"
+  },
+  {
+    "brand": "Derby",
+    "name": "Premium",
+    "material": "Chromium-Ceramic-Platinum-Tungsten and Polymer",
+    "origin": "Turkey",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/derby-premium.jpeg"
+  },
+  {
+    "brand": "Derby",
+    "name": "Usta",
+    "origin": "Turkey",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/derby-usta.jpeg"
+  },
+  {
+    "brand": "Fromm",
+    "name": "Diane",
+    "material": "Sweedish Steel Platinum Ceramic",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/diane-ceramic.jpeg"
+  },
+  {
+    "brand": "Dollar",
+    "name": "Platinum",
+    "material": "Platinum",
+    "origin": "India",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/dollar-platinum.jpeg"
+  },
+  {
+    "brand": "Dorco",
+    "name": "Prime Platinum",
+    "material": "Platinum",
+    "origin": "South Korea",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/dorco-prime-platinum.jpeg"
+  },
+  {
+    "brand": "Dorco",
+    "name": "ST-300 Platinum",
+    "material": "Stainless (Platinum, PTFE)",
+    "origin": "South Korea",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/dorco-st300-platinum.jpeg"
+  },
+  {
+    "brand": "Dorco",
+    "name": "ST-301 Stainless",
+    "material": "Stainless (Platinum, PTFE)",
+    "origin": "South Korea",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/dorco-st-301.jpeg"
+  },
+  {
+    "brand": "Dorco",
+    "name": "Titan",
+    "material": "Stainless",
+    "origin": "Vietnam",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/dorco-titan-stainless.jpeg"
+  },
+  {
+    "brand": "Elios",
+    "name": "Inoxidable",
+    "material": "Stainless",
+    "origin": "Germany",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/elios-inoxidable.jpeg"
+  },
+  {
+    "brand": "Euromax",
+    "name": "Platinum",
+    "material": "Platinum",
+    "origin": "United Emirates",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/euromax-platinum.png"
+  },
+  {
+    "brand": "Gillette",
+    "name": "365",
+    "material": "Stainless",
+    "origin": "India",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/gillette-365-stainless.jpeg"
+  },
+  {
+    "brand": "Gillette",
+    "name": "7 O'clock Permasharp Stainless",
+    "material": "Stainless",
+    "origin": "India",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/gillette-permasharp-stainless.jpeg"
+  },
+  {
+    "brand": "Gillette",
+    "name": "7 O'Clock Super Stainless",
+    "material": "Stainless",
+    "origin": "Russia",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/gillette-7-oclock-super-stainless.jpeg"
+  },
+  {
+    "brand": "Gillette",
+    "name": "Platinum",
+    "material": "Platinum",
+    "origin": "Russia",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/gillette-platinum.jpeg"
+  },
+  {
+    "brand": "Gillette",
+    "name": "Silver Blue",
+    "material": "PTFE (Teflong",
+    "origin": "Russia",
+    "imageURL": ""
+  },
+  {
+    "brand": "Gillette",
+    "name": "Sputnik",
+    "material": "Teflon",
+    "origin": "India",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/gillette-sputnik.jpeg"
+  },
+  {
+    "brand": "Ladas",
+    "name": "Super Stainless",
+    "material": "Stainless",
+    "origin": "Russia",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/ladas-super-stainless.jpeg"
+  },
+  {
+    "brand": "Laser",
+    "name": "Super Platinum",
+    "material": "Platinum",
+    "origin": "India",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/laser-super-platinum.jpeg"
+  },
+  {
+    "brand": "Laser",
+    "name": "Ultra",
+    "material": "Triple Coated",
+    "origin": "India",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/laser-ultra.jpeg"
+  },
+  {
+    "brand": "Lord",
+    "name": "Clasic Super Stainless",
+    "material": "Stainless",
+    "origin": "Egypt",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/lord-classic-super-stainless.jpeg"
+  },
+  {
+    "brand": "Lord",
+    "name": "Platinum",
+    "material": "Platinum",
+    "origin": "Egypt",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/lord-platinum.jpeg"
+  },
+  {
+    "brand": "Lord",
+    "name": "Super Chrome",
+    "material": "Chrome",
+    "origin": "Egypt",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/lord-super-chrome.jpeg"
+  },
+  {
+    "brand": "Lord",
+    "name": "Super Stainless",
+    "material": "Stainless",
+    "origin": "Egypt",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/lord-super-stainless.jpeg"
+  },
+  {
+    "brand": "Parker",
+    "name": "Premium Platinum",
+    "material": "Chromium-Ceramic-Platinum-Tungsten and Polymer",
+    "origin": "Turkey",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/parker-premium-platinum.jpeg"
+  },
+  {
+    "brand": "Patrix",
+    "name": "Super Stainless",
+    "material": "Stainless",
+    "origin": "China",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/patrix-super-stainless.jpeg"
+  },
+  {
+    "brand": "Gillette",
+    "name": "Perma-Sharp Super",
+    "origin": "Russia",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/perma-sharp-jpg.jpeg"
+  },
+  {
+    "brand": "Quality Club",
+    "name": "Stainless",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/quality-club-stainless.jpeg"
+  },
+  {
+    "brand": "Lord",
+    "name": "Racker Super Stainless",
+    "material": "Stainless (PTFE - Teflon)",
+    "origin": "Egypt",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/racer-super-stainless.jpeg"
+  },
+  {
+    "brand": "Lord",
+    "name": "Rainbow Super Stainless",
+    "material": "Stainless",
+    "origin": "Egypt",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/rainbow-super-stainless.jpeg"
+  },
+  {
+    "brand": "Personna",
+    "name": "Comfort Coated",
+    "material": "Stainless Steel",
+    "origin": "USA",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/Personna-Comfort-Coated-Double-Edge-Razor-Blades-5-Pack_1024x1024@2x.png"
+  },
+  {
+    "brand": "Pro 500",
+    "name": "Super Platinum",
+    "material": "Platinum",
+    "origin": "India",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/Pro-500-Super-Platinum-Razor-Blades-Edited_1024x1024@2x.png"
+  },
+  {
+    "brand": "Rapira",
+    "name": "Platinum Lux",
+    "material": "Platinum",
+    "origin": "Russia",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/rapira-platinum-lux.jpeg"
+  },
+  {
+    "brand": "Rapira",
+    "name": "Stainless Chrome",
+    "material": "Stainless (Chrome)",
+    "origin": "Russia",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/rapira-stainless.jpeg"
+  },
+  {
+    "brand": "Rapira",
+    "name": "Super Stainless",
+    "material": "Stainless",
+    "origin": "Russia",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/rapira-super-stainless.jpeg"
+  },
+  {
+    "brand": "Rapira",
+    "name": "Sweedish Super Steel",
+    "material": "Sweedish Steel",
+    "origin": "Russia",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/rapira-swedish-supersteel.jpeg"
+  },
+  {
+    "brand": "Rise",
+    "name": "Stainless",
+    "material": "Stainless",
+    "origin": "India",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/rise-stainless.jpeg"
+  },
+  {
+    "brand": "Rockwell Razors",
+    "name": "Sweedish Stainless",
+    "material": "Sweedish Steel",
+    "origin": "USA",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/rockwell-razor-blade.jpeg"
+  },
+  {
+    "brand": "Lord",
+    "name": "Shark - Platinum",
+    "material": "Platinum",
+    "origin": "Egypt",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/shark-platinum.jpeg"
+  },
+  {
+    "brand": "Lord",
+    "name": "Shark - Super Chrome",
+    "material": "Chrome",
+    "origin": "Egypt",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/SharkSuperChrome.png"
+  },
+  {
+    "brand": "Lord",
+    "name": "Shark - Super Stainless",
+    "material": "Stainless Steel",
+    "origin": "Egypt",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/shark-super-stainless.jpeg"
+  },
+  {
+    "brand": "Schick",
+    "name": "Double Edge",
+    "material": "Stainless Steel (Triple Coated)",
+    "origin": "Germany",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/Schick-Double-Edge-Razor-Blades_5-Pack_3b19f396-f3b1-4e21-b5b8-b12627a43fc5_1024x1024@2x.png"
+  },
+  {
+    "brand": "Sharp Stainless",
+    "name": "Hi Chromium",
+    "material": "Polymer",
+    "origin": "Bangladesh",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/sharp-hi-chromium.jpeg"
+  },
+  {
+    "brand": "Shaverboy",
+    "name": "Super Stainless",
+    "material": "Stainless Steel",
+    "origin": "Canada",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/shaverboy-stainless.png"
+  },
+  {
+    "brand": "Lord",
+    "name": "Silver Star - Stainless",
+    "material": "Stainless Steel",
+    "origin": "Egypt",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/silver-star-stainless.jpeg"
+  },
+  {
+    "brand": "Super Max",
+    "name": "Blue Diamond",
+    "material": "Titanium",
+    "origin": "India",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/super-max-blue-diamond.jpeg"
+  },
+  {
+    "brand": "Super Max",
+    "name": "Diamond Edge",
+    "material": "Platinum",
+    "origin": "India",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/super-max-diamond-edge-super-platinum.jpeg"
+  },
+  {
+    "brand": "Super Max",
+    "name": "Platinum",
+    "material": "Platinum",
+    "origin": "India",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/super-max-platinum.jpeg"
+  },
+  {
+    "brand": "Super Max",
+    "name": "Platinum Plus",
+    "material": "Platinum",
+    "origin": "India",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/supermax-platinum-plus.jpeg"
+  },
+  {
+    "brand": "Super Max",
+    "name": "Platinum",
+    "material": "Super Platinum",
+    "origin": "India",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/supermax-super-platinum.jpeg"
+  },
+  {
+    "brand": "Super Max",
+    "name": "Super Stainless",
+    "material": "Stainless Steel",
+    "origin": "India",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/supermax-super-stainless.jpeg"
+  },
+  {
+    "brand": "Super Max",
+    "name": "Titanium",
+    "material": "Titanium",
+    "origin": "India",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/supermax-titanium.jpeg"
+  },
+  {
+    "brand": "Statum",
+    "name": "Platinum Chrome Sputtered",
+    "material": "Platinum Chrome",
+    "origin": "India",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/Statum-Platinum-Chrome-Sputtered-Razor-Blades-Edited_1024x1024@2x.png"
+  },
+  {
+    "brand": "Tatra",
+    "name": "Platinum",
+    "material": "Stainless (Platinum)",
+    "origin": "Czech Republic",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/tatra-platinum.jpeg"
+  },
+  {
+    "brand": "Tatra",
+    "name": "Carbon Steel",
+    "material": "Carbon Steel",
+    "origin": "Czech Republic",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/Tatra-Carbon-Steel.png"
+  },
+  {
+    "brand": "Tiger",
+    "name": "Platinum",
+    "material": "Stainless (Platinum)",
+    "origin": "Czech Republic",
+    "imageURL": ""
+  },
+  {
+    "brand": "Timor",
+    "name": "Stainless Steel",
+    "material": "Stainless Steel (Ice Tempered)",
+    "origin": "Germany",
+    "imageURL": ""
+  },
+  {
+    "brand": "Topaz",
+    "name": "Platinum",
+    "material": "Platinum",
+    "origin": "India",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/Topaz-Platinum-Sputtered-Edges-Razor-Blades-Edited_360x.png"
+  },
+  {
+    "brand": "Topaz",
+    "name": "Stainless",
+    "material": "Stainless Steel",
+    "origin": "India",
+    "imageURL": ""
+  },
+  {
+    "brand": "Treet",
+    "name": "7 Day Platinum",
+    "material": "Platinum",
+    "origin": "Pakistan",
+    "imageURL": ""
+  },
+  {
+    "brand": "Treet",
+    "name": "Durasharp",
+    "material": "PTFE (Teflon)",
+    "origin": "Pakistan",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/Treet-Dura-Sharp-PTFE-Teflon-Double-Edge-Blades-Pack-of-10-Blades_1024x1024@2x.png"
+  },
+  {
+    "brand": "Treet",
+    "name": "Carbon Steel",
+    "material": "Carbon Steel",
+    "origin": "Pakistan",
+    "imageURL": ""
+  },
+  {
+    "brand": "Treet",
+    "name": "Classic",
+    "material": "Carbon Steel",
+    "origin": "Pakistan",
+    "imageURL": ""
+  },
+  {
+    "brand": "Treet",
+    "name": "Falcon",
+    "material": "Carbon Steel",
+    "origin": "Pakistan",
+    "imageURL": ""
+  },
+  {
+    "brand": "Treet",
+    "name": "New Edge Carbon",
+    "material": "Carbon Steel",
+    "origin": "Pakistan",
+    "imageURL": ""
+  },
+  {
+    "brand": "Treet",
+    "name": "Platinum",
+    "material": "Super Stainless Steel (Platinum)",
+    "origin": "Pakistan",
+    "imageURL": ""
+  },
+  {
+    "brand": "Treet",
+    "name": "Trig",
+    "material": "Stainless Steel (PTFE - Teflon)",
+    "origin": "Pakistan",
+    "imageURL": ""
+  },
+  {
+    "brand": "V12",
+    "name": "Super Platinum",
+    "material": "Steel (Platinum",
+    "origin": "India",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/V12-Super-Platinum-Razor-Blades-Edited_1024x1024@2x.png"
+  },
+  {
+    "brand": "Vijay",
+    "name": "Stainless",
+    "material": "Stainless Steel",
+    "origin": "India",
+    "imageURL": ""
+  },
+  {
+    "brand": "Vincent",
+    "name": "VT300B",
+    "origin": "China",
+    "imageURL": ""
+  },
+  {
+    "brand": "Voskhod",
+    "name": "Teflon",
+    "material": "PTFE (Teflon)",
+    "origin": "Pakistan",
+    "imageURL": ""
+  },
+  {
+    "brand": "Gillette",
+    "name": "Wilkinson Sword",
+    "material": "Platinum",
+    "origin": "India",
+    "imageURL": ""
+  },
+  {
+    "brand": "ZAZA",
+    "name": "Super Stainless",
+    "material": "Stainless Steel",
+    "origin": "Turkey",
+    "imageURL": ""
+  },
+  {
+    "brand": "Zorrik",
+    "name": "Super Platinum",
+    "material": "Platinum",
+    "origin": "India",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/Zorrik-Super-Platinum-Razor-Blade-Edited_360x.png"
+  },
+
+  {
+    "brand": "Gillette",
+    "name": "Platinum",
+    "material": "Stainless Steel",
+    "origin": "Russia",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/gillette_platinum.jpeg"
+  },
+  {
+    "brand": "Astra",
+    "name": "Green",
+    "material": "Platinum",
+    "origin": "Czech Republic",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0463/9155/8297/products/astra-astra-green-platinum-double-edge-razor-blades-30501304336537_1080x_2c7815b7-c012-4bb7-8745-5fa7ca153942_798x1025.jpg?v=1642450104"
   }
 ]
