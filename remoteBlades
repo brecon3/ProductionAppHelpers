@@ -747,5 +747,94 @@
     "material": "Platinum",
     "origin": "India",
     "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/Zorrik-Super-Platinum-Razor-Blade-Edited_360x.png"
+  },
+  {
+    "brand": "Durablade",
+    "name": "7AM Hi-Platinum (Shavette)",
+    "material": "Sweedish Steel (Platinum, Chromium)",
+    "origin": "Bangladesh",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/7am-shavette.png"
+  },
+  {
+    "brand": "Derby",
+    "name": "Blue Bird - Professional (Shavette)",
+    "material": "Chromium-Ceramic-Tungsten and Polymer",
+    "origin": "Turkey",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/blue-bird-shavette.png"
+  },
+  {
+    "brand": "Lord",
+    "name": "Crown Stainless (Shavette)",
+    "material": "Stainless",
+    "origin": "Egypt",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/crown-stainless-shavette.png"
+  },
+  {
+    "brand": "Derby",
+    "name": "Premium (Shavette)",
+    "material": "Chromium-Ceramic-Platinum-Tungsten and Polymer",
+    "origin": "Turkey",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/derby-premium-shavette.png"
+  },
+  {
+    "brand": "Derby",
+    "name": "Professional - Green (Shavette)",
+    "material": "Chromium-Ceramic-Platinum-Tungsten and Polymer",
+    "origin": "Turkey",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/derby-professional-shavette.png"
+  },
+  {
+    "brand": "Derby",
+    "name": "Usta (Shavette)",
+    "origin": "Turkey",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/derby-usta-shavette.png"
+  },
+  {
+    "brand": "Lord",
+    "name": "Captain (Shavette)",
+    "origin": "Egypt",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/lord-captain-shavette.png"
+  },
+  {
+    "brand": "Lord",
+    "name": "Platinum (Shavette)",
+    "material": "Platinum",
+    "origin": "Egypt",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/lord-platinum-shavette.png"
+  },
+  {
+    "brand": "Lord",
+    "name": "Stainless (Shavette)",
+    "material": "Stainless",
+    "origin": "Egypt",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/lord-stainless-shavette.png"
+  },
+  {
+    "brand": "Red Royal",
+    "name": "Platinum (Shavette)",
+    "material": "Platinum",
+    "origin": "Germany",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/red-royal-shavette.png"
+  },
+  {
+    "brand": "Lord",
+    "name": "Shark - Super Stainless (Shavette)",
+    "material": "Stainless Steel",
+    "origin": "Egypt",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/shark-shavette.png"
+  },
+  {
+    "brand": "Durablade",
+    "name": "Sharp Stainless - Hi Chromium (Shavette)",
+    "material": "Chrome",
+    "origin": "Switzerland",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/durasharp-shavette.png"
+  },
+  {
+    "brand": "Super Max",
+    "name": "Super Stainless (Shavette)",
+    "material": "Stainless Steel",
+    "origin": "India",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/supermax-shavette.png"
   }
 ]
