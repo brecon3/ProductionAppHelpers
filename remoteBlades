@@ -11,7 +11,7 @@
     "name": "Super Stainless (Orange)",
     "material": "Stainless (PTFE)",
     "origin": "Egypt",
-    "imageURL": ""
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/asco-orange.png"
   },
   {
     "brand": "Asco",
@@ -95,7 +95,7 @@
     "name": "Extra - Blue",
     "material": "Chromium-Ceramic-Platinum-Tungsten and Polymer",
     "origin": "Turkey",
-    "imageURL": ""
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/derby-blue.png"
   },
   {
     "brand": "Derby",
@@ -246,7 +246,7 @@
     "name": "Wilkinson Sword",
     "material": "Platinum",
     "origin": "India",
-    "imageURL": ""
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/wilkinson-sword.png"
   },
   {
     "brand": "Gillette",
@@ -459,6 +459,13 @@
     "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/personna-med-prep.png"
   },
   {
+    "brand": "PAA",
+    "name": "Platinum Strangelet Super Sharps",
+    "material": "Swedish Steel (Platinum & PTFE)",
+    "origin": "China",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/paa-strangelet.png"
+  },
+  {
     "brand": "Pro 500",
     "name": "Super Platinum",
     "material": "Platinum",
@@ -628,7 +635,7 @@
     "name": "Stainless Steel",
     "material": "Stainless Steel (Ice Tempered)",
     "origin": "Germany",
-    "imageURL": ""
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/timor-stainless.png"
   },
   {
     "brand": "Topaz",
@@ -642,14 +649,14 @@
     "name": "Stainless",
     "material": "Stainless Steel",
     "origin": "India",
-    "imageURL": ""
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/topaz-stainless.png"
   },
   {
     "brand": "Treet",
     "name": "7 Day Platinum",
     "material": "Platinum",
     "origin": "Pakistan",
-    "imageURL": ""
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/treet-7-day-platinum.png"
   },
   {
     "brand": "Treet",
@@ -663,42 +670,42 @@
     "name": "Carbon Steel",
     "material": "Carbon Steel",
     "origin": "Pakistan",
-    "imageURL": ""
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/treet-carbon-steel.png"
   },
   {
     "brand": "Treet",
     "name": "Classic",
     "material": "Carbon Steel",
     "origin": "Pakistan",
-    "imageURL": ""
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/treet-classic.png"
   },
   {
     "brand": "Treet",
     "name": "Falcon",
     "material": "Carbon Steel",
     "origin": "Pakistan",
-    "imageURL": ""
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/treet-falcon.png"
   },
   {
     "brand": "Treet",
     "name": "New Edge Carbon",
     "material": "Carbon Steel",
     "origin": "Pakistan",
-    "imageURL": ""
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/treet-new-edge-carbon.png"
   },
   {
     "brand": "Treet",
     "name": "Platinum",
     "material": "Super Stainless Steel (Platinum)",
     "origin": "Pakistan",
-    "imageURL": ""
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/treet-platinum.png"
   },
   {
     "brand": "Treet",
     "name": "Trig",
     "material": "Stainless Steel (PTFE - Teflon)",
     "origin": "Pakistan",
-    "imageURL": ""
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/treet-trig.png"
   },
   {
     "brand": "V12",
@@ -712,27 +719,27 @@
     "name": "Stainless",
     "material": "Stainless Steel",
     "origin": "India",
-    "imageURL": ""
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/vijay-stainless.png"
   },
   {
     "brand": "Vincent",
     "name": "VT300B",
     "origin": "China",
-    "imageURL": ""
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/vincent-vt300b.png"
   },
   {
     "brand": "Voskhod",
     "name": "Teflon",
     "material": "PTFE (Teflon)",
     "origin": "Pakistan",
-    "imageURL": ""
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/voskhod-teflon.png"
   },
   {
     "brand": "ZAZA",
     "name": "Super Stainless",
     "material": "Stainless Steel",
     "origin": "Turkey",
-    "imageURL": ""
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/zaza-super-stainless.png"
   },
   {
     "brand": "Zorrik",
