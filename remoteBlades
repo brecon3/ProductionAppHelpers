@@ -154,6 +154,7 @@
   },
   {
     "brand": "Dreadnought",
+    "name": "",
     "material": "Stainless",
     "origin": "Israel",
     "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/dreadnought.png"
@@ -466,7 +467,6 @@
   },
   {
     "brand": "Quality Club",
-    "name": "",
     "name": "Stainless",
     "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/quality-club-stainless.png"
   },
