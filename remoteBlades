@@ -735,6 +735,13 @@
     "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/voskhod-teflon.png"
   },
   {
+    "brand": "Wizamet",
+    "name": "Super Iridium",
+    "material": "Stainless Steel",
+    "origin": "Russia",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/wizamet.png"
+  },
+  {
     "brand": "ZAZA",
     "name": "Super Stainless",
     "material": "Stainless Steel",
