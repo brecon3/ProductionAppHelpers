@@ -181,6 +181,13 @@
     "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/euromax-platinum.png"
   },
   {
+    "brand": "Fatip",
+    "name": "Stainless",
+    "material": "Stainless Steel",
+    "origin": "EU",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/fat-tip.png"
+  },
+  {
     "brand": "Feather",
     "name": "New Hi-Stainless",
     "material": "Stainless (Platinum)",
@@ -247,6 +254,20 @@
     "material": "Platinum",
     "origin": "India",
     "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/wilkinson-sword.png"
+  },
+  {
+    "brand": "Gillette",
+    "name": "Winner (Stainless)",
+    "material": "Stainless Steel",
+    "origin": "India",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/winner-stainless.png"
+  },
+  {
+    "brand": "Gillette",
+    "name": "Winner (Platinum)",
+    "material": "Platinum",
+    "origin": "India",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/winner-platinum.png"
   },
   {
     "brand": "Gillette",
