@@ -298,6 +298,32 @@
     "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/gillette-nacet.png"
   },
   {
+    "brand": "Gillette",
+    "name": "London Bridge",
+    "material": "Stainless Steel",
+    "origin": "China",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/LondonBridge.png"
+  },
+  {
+    "brand": "Gillette",
+    "name": "King C. Gillette",
+    "material": "Stainless (Platinum)",
+    "origin": "Russia",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/KingC.png"
+  },
+  {
+    "brand": "Gillette",
+    "name": "Rubie Plus",
+    "material": "Platinum",
+    "origin": "Russia",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/rubieplus.png"
+  },
+  {
+    "brand": "Gillette",
+    "name": "Blue Extra",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/blueExtra.png"
+  },
+  {
     "brand": "Kai Razor",
     "name": "Stainless",
     "material": "Stainless",
@@ -480,6 +506,13 @@
     "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/personna-med-prep.png"
   },
   {
+    "brand": "Personna",
+    "name": "Platinum",
+    "material": "Stainless (Platinum, Chrome)",
+    "origin": "Germany",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/Personna_Plat.png"
+  },
+  {
     "brand": "PAA",
     "name": "Platinum Strangelet Super Sharps",
     "material": "Swedish Steel (Platinum & PTFE)",
@@ -544,8 +577,8 @@
     "brand": "Rockwell Razors",
     "name": "Sweedish Stainless",
     "material": "Sweedish Steel",
-    "origin": "USA",
-    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/rockwell-razor-blade.png"
+    "origin": "China",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/Rockwell_new.png"
   },
   {
     "brand": "Schick",
@@ -566,6 +599,12 @@
     "material": "Polymer",
     "origin": "Bangladesh",
     "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/sharp-hi-chromium.png"
+  },
+  {
+    "brand": "Shapu",
+    "name": "Professional",
+    "material": "Stainless Steel (Platinum)",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/Shapu.png"
   },
   {
     "brand": "Shaverboy",
