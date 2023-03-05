@@ -472,6 +472,13 @@
   },
   {
     "brand": "Personna",
+    "name": "Apache",
+    "material": "Titanium",
+    "origin": "China",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/apache.png"
+  },
+  {
+    "brand": "Personna",
     "name": "Comfort Coated",
     "material": "Stainless Steel",
     "origin": "USA",
@@ -795,6 +802,13 @@
     "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/voskhod-teflon.png"
   },
   {
+    "brand": "Wilkinson Sword",
+    "name": "Classic",
+    "material": "Stainless Steel (PTFE Coating)",
+    "origin": "Germany",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/wilk_sword_classic.png"
+  },
+  {
     "brand": "Wizamet",
     "name": "Super Iridium",
     "material": "Stainless Steel",
@@ -855,6 +869,12 @@
     "name": "Usta (Shavette)",
     "origin": "Turkey",
     "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/derby-usta-shavette.png"
+  },
+  {
+    "brand": "Leaf",
+    "name": "Single Edge",
+    "material": "Sweedish Steel (Platinum)",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/leaf.png"
   },
   {
     "brand": "Lord",
