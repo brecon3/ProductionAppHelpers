@@ -230,8 +230,15 @@
   },
   {
     "brand": "Gillette",
+    "name": "Minora",
+    "material": "Stainless Steel",
+    "origin": "Russia",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/minora.png"
+  },
+  {
+    "brand": "Gillette",
     "name": "Silver Blue",
-    "material": "PTFE (Teflong",
+    "material": "PTFE (Teflon)",
     "origin": "Russia",
     "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/Gillette-Silver-Blue-Double-Edge-Safety-Blade-5-Pack_5000x.png"
   },
