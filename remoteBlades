@@ -923,5 +923,47 @@
     "material": "Stainless Steel",
     "origin": "India",
     "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/supermax-shavette.png"
+  },
+  {
+    "brand": "Schick",
+    "name": "Proline (SE)",
+    "material": "Stainless Steel",
+    "origin": "Japan",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/schick_proline.png"
+  },
+  {
+    "brand": "Feather",
+    "name": "Artist Club Light (SE)",
+    "material": "Stainless Steel",
+    "origin": "Japan",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/feather_light.png"
+  },
+  {
+    "brand": "Feather",
+    "name": "Artist Club Soft Guard (SE)",
+    "material": "Stainless Steel",
+    "origin": "Japan",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/feather_soft.png"
+  },
+  {
+    "brand": "Feather",
+    "name": "Artist Club Professional (SE)",
+    "material": "Stainless Steel",
+    "origin": "Japan",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/feather_pro.png"
+  },
+  {
+    "brand": "Feather",
+    "name": "Artist Club Pro-Guard (SE)",
+    "material": "Stainless Steel",
+    "origin": "Japan",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/feather_proguard.png"
+  },
+  {
+    "brand": "Feather",
+    "name": "Artist Club Super (SE)",
+    "material": "Stainless Steel",
+    "origin": "Japan",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/feather_prosuper.png"
   }
 ]
