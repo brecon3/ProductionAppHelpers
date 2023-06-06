@@ -28,6 +28,13 @@
     "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/asco-super-stainless.png"
   },
   {
+    "brand": "Asco",
+    "name": "Super Platinum (Orange)",
+    "material": "Platinum",
+    "origin": "Egypt",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/Asco_Platinum.png"
+  },
+  {
     "brand": "Astra",
     "name": "Green",
     "material": "Platinum",
@@ -338,6 +345,13 @@
     "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/kai-razor-stainless.png"
   },
   {
+    "brand": "Kismet",
+    "name": "Stainless (SE)",
+    "material": "Stainless",
+    "origin": "Japan",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/Kismet.png"
+  },
+  {
     "brand": "Ladas",
     "name": "Super Stainless",
     "material": "Stainless",
@@ -364,6 +378,13 @@
     "material": "Stainless",
     "origin": "Egypt",
     "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/big-ben-blue.png"
+  },
+  {
+    "brand": "Lord",
+    "name": "Blue Sword - Platinum",
+    "material": "Platinum",
+    "origin": "Egypt",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/BlueSword_Platinum.png"
   },
   {
     "brand": "Lord",
@@ -684,6 +705,12 @@
     "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/supermax-titanium.png"
   },
   {
+    "brand": "Super Shave",
+    "name": "X Platinum",
+    "material": "Platinum & GlidePolymer ",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/SuperShave_X.png"
+  },
+  {
     "brand": "Tatra",
     "name": "Platinum",
     "material": "Stainless (Platinum)",
@@ -972,5 +999,11 @@
     "material": "Stainless Steel",
     "origin": "Japan",
     "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/feather_prosuper.png"
+  },
+  {
+    "brand": "Personna",
+    "name": "GEM Stainless PTFE (SE)",
+    "material": "Stainless Steel (PTFE)",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/Gem_PTFE.png"
   }
 ]
