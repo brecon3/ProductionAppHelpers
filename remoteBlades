@@ -244,6 +244,13 @@
   },
   {
     "brand": "Gillette",
+    "name": "Minora Platinum",
+    "material": "Platinum",
+    "origin": "Russia",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/minora-platinum.png"
+  },
+  {
+    "brand": "Gillette",
     "name": "Silver Blue",
     "material": "PTFE (Teflon)",
     "origin": "Russia",
@@ -499,6 +506,13 @@
     "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/patrix-super-stainless.png"
   },
   {
+    "brand": "Pearl",
+    "name": "Willy's Premium",
+    "material": "Stainless Steel",
+    "origin": "India",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/willys.png"
+  },
+  {
     "brand": "Personna",
     "name": "Apache",
     "material": "Titanium",
@@ -511,6 +525,13 @@
     "material": "Stainless Steel",
     "origin": "USA",
     "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/Personna-Comfort-Coated-Double-Edge-Razor-Blades-5-Pack_1024x1024@2x.png"
+  },
+  {
+    "brand": "Personna",
+    "name": "Lab Blue",
+    "material": "Stainless ",
+    "origin": "United States",
+    "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/personna-lab-blue.png"
   },
   {
     "brand": "Personna",
