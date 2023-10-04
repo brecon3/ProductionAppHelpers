@@ -115,6 +115,7 @@
     "brand": "Derby",
     "name": "Usta",
     "origin": "Turkey",
+    "material": "",
     "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/derby-usta.png"
   },
   {
@@ -266,6 +267,7 @@
   {
     "brand": "Gillette",
     "name": "Perma-Sharp Super",
+    "material": "",
     "origin": "Russia",
     "imageURL": "https://msd-bladeimages.s3.us-west-004.backblazeb2.com/perma-sharp-jpg.png"
   },
@@ -342,6 +344,7 @@
   {
     "brand": "Gillette",
     "name": "Blue Extra",
+    "material": "",
     "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/blueExtra.png"
   },
   {
@@ -585,6 +588,7 @@
   {
     "brand": "Quality Club",
     "name": "Stainless",
+    "material": "",
     "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/quality-club-stainless.png"
   },
   {
@@ -647,6 +651,7 @@
     "brand": "Shanghai Cloud",
     "name": "Cloud",
     "origin": "China",
+    "material": "",
     "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/cloud.png"
   },
   {
@@ -847,6 +852,7 @@
     "brand": "Vincent",
     "name": "VT300B",
     "origin": "China",
+    "material": "",
     "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/vincent-vt300b.png"
   },
   {
@@ -923,6 +929,7 @@
     "brand": "Derby",
     "name": "Usta (Shavette)",
     "origin": "Turkey",
+    "material": "",
     "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/derby-usta-shavette.png"
   },
   {
@@ -935,6 +942,7 @@
     "brand": "Lord",
     "name": "Captain (Shavette)",
     "origin": "Egypt",
+    "material": "",
     "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/lord-captain-shavette.png"
   },
   {
