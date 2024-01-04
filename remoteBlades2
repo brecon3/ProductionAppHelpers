@@ -88,6 +88,14 @@
         "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/bolzano-superinox-inossidabile.png"
     },
     {
+        "brand": "Böker Soligen",
+        "name": "Stainless Ice-Hardened",
+        "material": "Stainless",
+        "origin": "Germany",
+        "type": 2,
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/boker-soligen.png"
+    },
+    {
         "brand": "Croma",
         "name": "Diamant",
         "material": "Chrome, Teflon",
@@ -99,7 +107,7 @@
         "brand": "Derby",
         "name": "Blue Bird - Hi Stainless",
         "material": "Chromium-Ceramic-Tungsten and Polymer",
-        "origin": "Turkey", 
+        "origin": "Turkey",
         "type": 2,
         "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/blue-bird-stainless.png"
     },
@@ -206,6 +214,14 @@
         "origin": "Germany",
         "type": 2,
         "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/elios-inoxidable.png"
+    },
+    {
+        "brand": "Erbe Soligen",
+        "name": "Stainless Ice-Hardened",
+        "material": "Stainless",
+        "origin": "Germany",
+        "type": 2,
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/erbe-soligen.png"
     },
     {
         "brand": "Euromax",
@@ -592,6 +608,22 @@
         "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/willys.png"
     },
     {
+        "brand": "Permasharp",
+        "name": "Super",
+        "material": "Stainless Steel",
+        "origin": "Russia",
+        "type": 2,
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/permasharp-super.png"
+    },
+    {
+        "brand": "Permasharp",
+        "name": "Single Edge (Shavette)",
+        "material": "Stainless Steel (PTFE)",
+        "origin": "Russia",
+        "type": 1,
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/perma-sharp-shavette.png"
+    },
+    {
         "brand": "Personna",
         "name": "Apache",
         "material": "Titanium",
@@ -870,6 +902,14 @@
         "origin": "Czech Republic",
         "type": 2,
         "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/tiger-platinum.png"
+    },
+    {
+        "brand": "Tiger",
+        "name": "Superior",
+        "material": "Platinum (Teflon)",
+        "origin": "Czech Republic",
+        "type": 2,
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/tiger-superior.png"
     },
     {
         "brand": "Timor",
@@ -1182,6 +1222,22 @@
         "origin": "Japan",
         "type": 4,
         "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/feather_prosuper.png"
+    },
+    {
+        "brand": "Supply",
+        "name": "Black Label (SE)",
+        "material": "Stainless Steel (Chromium & PTFE)",
+        "origin": "Japan",
+        "type": 4,
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/supply_black_label.png"
+    },
+    {
+        "brand": "KAI",
+        "name": "Captain Titan Mild Pink (SE)",
+        "material": "Stainless Steel  (PTFE)",
+        "origin": "Japan",
+        "type": 5,
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/kai-captain-titan-pink.png"
     },
     {
         "brand": "Personna",
