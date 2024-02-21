@@ -314,6 +314,14 @@
     {
         "brand": "Gillette",
         "name": "Sputnik",
+        "material": "Stainless Steel",
+        "origin": "Vietnam",
+        "type": 2,
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/gillette-superthin.png"
+    },
+    {
+        "brand": "Gillette",
+        "name": "Super Thin",
         "material": "Teflon",
         "origin": "India",
         "type": 2,
@@ -688,12 +696,20 @@
         "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/Personna_Plat.png"
     },
     {
-        "brand": "PAA",
+        "brand": "Phoenix Shaving",
         "name": "Platinum Strangelet Super Sharps",
         "material": "Swedish Steel (Platinum & PTFE)",
         "origin": "China",
         "type": 2,
         "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/paa-strangelet.png"
+    },
+    {
+        "brand": "Polsilver",
+        "name": "Super Iridium",
+        "material": "Stainless Steel (Iridium Coating)",
+        "origin": "Russia",
+        "type": 2,
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/polsilver_blade.png"
     },
     {
         "brand": "Pro 500",
@@ -766,6 +782,14 @@
         "origin": "China",
         "type": 2,
         "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/Rockwell_new.png"
+    },
+    {
+        "brand": "Rotbart",
+        "name": "Extra Platinum",
+        "material": "Stainless Steel (Platinum)",
+        "origin": "EU",
+        "type": 2,
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/rotbart_blade.png"
     },
     {
         "brand": "Schick",
@@ -874,7 +898,7 @@
     {
         "brand": "Super Shave",
         "name": "X Platinum",
-        "material": "Platinum & GlidePolymer ",
+        "material": "Platinum & Glide Polymer ",
         "origin": "",
         "type": 2,
         "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/SuperShave_X.png"
@@ -990,6 +1014,14 @@
         "origin": "Pakistan",
         "type": 2,
         "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/treet-platinum.png"
+    },
+    {
+        "brand": "Treet",
+        "name": "Silver",
+        "material": "Carbon Steel",
+        "origin": "Pakistan",
+        "type": 2,
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/treet-silver.png"
     },
     {
         "brand": "Treet",
@@ -1232,12 +1264,28 @@
         "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/supply_black_label.png"
     },
     {
+        "brand": "Schick",
+        "name": "P-30 Proline Artist Club (SE)",
+        "material": "Stainless Steel",
+        "origin": "Japan",
+        "type": 4,
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/schick_p-30.png"
+    },
+    {
         "brand": "KAI",
         "name": "Captain Titan Mild Pink (SE)",
-        "material": "Stainless Steel  (PTFE)",
+        "material": "Stainless Steel (PTFE)",
         "origin": "Japan",
         "type": 4,
         "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/kai-captain-titan-pink.png"
+    },
+    {
+        "brand": "Feather",
+        "name": "FHS-10 High Stainless (OneBlade)",
+        "material": "Stainless Steel (Platinum & PTFE)",
+        "origin": "Japan",
+        "type": 1,
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/feather_fhs-10.png"
     },
     {
         "brand": "Personna",
