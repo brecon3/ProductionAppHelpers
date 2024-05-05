@@ -448,6 +448,13 @@
         "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/ladas-super-stainless.png"
     },
     {
+        "brand": "L3VEL3",
+        "name": "Platinum",
+        "material": "Stainless Steel (Chromium Ceramic)",
+        "type": 2,
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/L3VEL3.png"
+    },
+    {
         "brand": "Laser",
         "name": "Super Platinum",
         "material": "Platinum",
@@ -502,6 +509,14 @@
         "origin": "Egypt",
         "type": 2,
         "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/lord-classic-super-stainless.png"
+    },
+    {
+        "brand": "Lord",
+        "name": "Extra",
+        "material": "Stainless (PTFE)",
+        "origin": "Egypt",
+        "type": 2,
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/lord_extra.png"
     },
     {
         "brand": "Lord",
@@ -590,6 +605,22 @@
         "origin": "Germany",
         "type": 2,
         "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/muhle.png"
+    },
+    {
+        "brand": "Muster Dikson",
+        "name": "Platinum",
+        "material": "Stainless (Platinum)",
+        "origin": "Pakistan",
+        "type": 2,
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/muster.png"
+    },
+    {
+        "brand": "Muster Dikson",
+        "name": "Teflon",
+        "material": "Stainless (Teflon)",
+        "origin": "Pakistan",
+        "type": 2,
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/muster_teflon.png"
     },
     {
         "brand": "Parker",
@@ -736,6 +767,22 @@
         "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/rk-stainless.png"
     },
     {
+        "brand": "RK Shaving",
+        "name": "RX 100",
+        "material": "Platinum",
+        "origin": "India",
+        "type": 2,
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/rk_Rx100.png"
+    },
+    {
+        "brand": "RK Shaving",
+        "name": "Ultra-Max",
+        "material": "Platinum",
+        "origin": "India",
+        "type": 2,
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/rk_ultramax.png"
+    },
+    {
         "brand": "Rapira",
         "name": "Platinum Lux",
         "material": "Platinum",
@@ -832,6 +879,14 @@
         "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/shaverboy-stainless.png"
     },
     {
+        "brand": "Simbatec",
+        "name": "Razolution",
+        "material": "Stainless Steel (Teflon)",
+        "origin": "Germany",
+        "type": 2,
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/razolution.png"
+    },
+    {
         "brand": "Statum",
         "name": "Platinum Chrome Sputtered",
         "material": "Platinum Chrome",
@@ -902,6 +957,14 @@
         "origin": "",
         "type": 2,
         "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/SuperShave_X.png"
+    },
+    {
+        "brand": "Tatara",
+        "name": "Stainless",
+        "material": "Sweedish Stainless Steel (Platinum)",
+        "origin": "Europe",
+        "type": 2,
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/tatara.png"
     },
     {
         "brand": "Tatra",
@@ -1272,12 +1335,28 @@
         "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/schick_p-30.png"
     },
     {
+        "brand": "Schick",
+        "name": "Injector (SE)",
+        "material": "Stainless Steel (Chromium & Polymer)",
+        "origin": "Japan",
+        "type": 4,
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/schick_injector.png"
+    },
+    {
         "brand": "KAI",
         "name": "Captain Titan Mild Pink (SE)",
         "material": "Stainless Steel (PTFE)",
         "origin": "Japan",
         "type": 4,
         "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/kai-captain-titan-pink.png"
+    },
+    {
+        "brand": "KAI",
+        "name": "Captain Titan Mild Protouch MG (SE)",
+        "material": "Stainless Steel",
+        "origin": "Japan",
+        "type": 4,
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/kai_titan_mg.png"
     },
     {
         "brand": "Feather",
@@ -1289,7 +1368,7 @@
     },
     {
         "brand": "Personna",
-        "name": "GEM Stainless PTFE (SE)",
+        "name": "GEM Stainless PTFE",
         "material": "Stainless Steel (PTFE)",
         "origin": "",
         "type": 3,
