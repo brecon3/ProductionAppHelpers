@@ -1,5 +1,13 @@
 [
     {
+        "brand": "AccuTec",
+        "name": "AccuForge",
+        "material": "Stainless Steel",
+        "origin": "Israel",
+        "type": 2,
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/AccuForge.png"
+    },
+    {
         "brand": "American Safety Razor",
         "name": "Crystal",
         "material": "Platinum Chrome",
@@ -94,6 +102,14 @@
         "origin": "Germany",
         "type": 2,
         "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/boker-soligen.png"
+    },
+    {
+        "brand": "Boots",
+        "name": "Everyday",
+        "material": "Stainless",
+        "origin": "",
+        "type": 2,
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/Boots.png"
     },
     {
         "brand": "Croma",
@@ -208,6 +224,14 @@
         "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/7AM-Hi-Platinum.png"
     },
     {
+        "brand": "Durablade",
+        "name": "7AM Super Platinum",
+        "material": "Sweedish Steel (Platinum)",
+        "origin": "Bangladesh",
+        "type": 2,
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/SharpSuperPlat.png"
+    },
+    {
         "brand": "Elios",
         "name": "Inoxidable",
         "material": "Stainless",
@@ -240,6 +264,14 @@
         "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/fat-tip.png"
     },
     {
+        "brand": "Filoso",
+        "name": "The Barber's Blade",
+        "material": "Sweedish Steel (platinum)",
+        "origin": "",
+        "type": 2,
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/Filoso.png"
+    },
+    {
         "brand": "Feather",
         "name": "New Hi-Stainless",
         "material": "Stainless (Platinum)",
@@ -254,6 +286,14 @@
         "origin": "Japan",
         "type": 2,
         "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/feather-hi-stainless.png"
+    },
+    {
+        "brand": "FlyDear",
+        "name": "Super Platinum",
+        "origin": "China",
+        "type": 2,
+        "material": "Stainless Steel (Platinum)",
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/Flydear.png"
     },
     {
         "brand": "Fromm",
@@ -334,6 +374,14 @@
         "origin": "Russia",
         "type": 2,
         "imageURL": "https://msd-bladeimages.s3.us-west-004.backblazeb2.com/perma-sharp-jpg.png"
+    },
+    {
+        "brand": "Gillette",
+        "name": "Perma-Sharp",
+        "material": "Stainless Steel",
+        "origin": "Russia",
+        "type": 2,
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/Perma-sharp.png"
     },
     {
         "brand": "Gillette",
@@ -681,6 +729,14 @@
     },
     {
         "brand": "Personna",
+        "name": "Edison",
+        "material": "Stainless",
+        "origin": "Isreal",
+        "type": 2,
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/Edison.png"
+    },
+    {
+        "brand": "Personna",
         "name": "Lab Blue",
         "material": "Stainless ",
         "origin": "United States",
@@ -814,6 +870,14 @@
         "origin": "Russia",
         "type": 2,
         "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/rapira-swedish-supersteel.png"
+    },
+    {
+        "brand": "REX",
+        "name": "Platinum",
+        "material": "Sweedish Steel (Chrome, Platinumm Teflon)",
+        "origin": "Czech Republic",
+        "type": 2,
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/Rex.png"
     },
     {
         "brand": "Rise",
@@ -1073,6 +1137,14 @@
     },
     {
         "brand": "Treet",
+        "name": "New Steel",
+        "material": " Steel",
+        "origin": "Pakistan",
+        "type": 2,
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/TreetNewSteel.png"
+    },
+    {
+        "brand": "Treet",
         "name": "Platinum",
         "material": "Super Stainless Steel (Platinum)",
         "origin": "Pakistan",
@@ -1112,12 +1184,28 @@
         "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/vijay-stainless.png"
     },
     {
+        "brand": "Vi-John",
+        "name": "Masterstroke",
+        "material": "Steel (Chrome Platinum)",
+        "origin": "India",
+        "type": 2,
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/Vi-John.png"
+    },
+    {
         "brand": "Vincent",
         "name": "VT300B",
         "origin": "China",
         "material": "",
         "type": 2,
         "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/vincent-vt300b.png"
+    },
+    {
+        "brand": "Virtice Global",
+        "name": "Silvermax Cryo",
+        "origin": "India",
+        "material": "Stainless Steel (Platinum)",
+        "type": 2,
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/Cryo.png"
     },
     {
         "brand": "Voskhod",
@@ -1249,6 +1337,30 @@
     },
     {
         "brand": "Lord",
+        "name": "Big Ben - Super Stainless (Shavette)",
+        "material": "Stainless Steel",
+        "origin": "Egypt",
+        "type": 1,
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/Lord+BigBen_SE.png"
+    },
+    {
+        "brand": "Lord",
+        "name": "Racer Super Stainless (Shavette)",
+        "material": "Stainless (PTFE - Teflon)",
+        "origin": "Egypt",
+        "type": 1,
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/Racer_SE.png"
+    },
+    {
+        "brand": "Lord",
+        "name": "Classic (Shavette)",
+        "material": "Stainless Steel",
+        "origin": "Egypt",
+        "type": 1,
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/Lord+Classic_SE.png"
+    },
+    {
+        "brand": "Lord",
         "name": "Shark - Super Stainless (Shavette)",
         "material": "Stainless Steel",
         "origin": "Egypt",
@@ -1337,6 +1449,14 @@
     },
     {
         "brand": "Schick",
+        "name": "B-20 Proline Artist Club (SE)",
+        "material": "Stainless Steel",
+        "origin": "Japan",
+        "type": 4,
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/SchickB20.png"
+    },
+    {
+        "brand": "Schick",
         "name": "Injector (SE)",
         "material": "Stainless Steel (Chromium & Polymer)",
         "origin": "Japan",
@@ -1358,6 +1478,14 @@
         "origin": "Japan",
         "type": 4,
         "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/kai_titan_mg.png"
+    },
+    {
+        "brand": "Personna",
+        "name": "Injector (SE)",
+        "material": "Stainless Steel (PTFE)",
+        "origin": "USA",
+        "type": 4,
+        "imageURL": "https://f004.backblazeb2.com/file/MSD-bladeImages/PersonnaInjector.png"
     },
     {
         "brand": "Feather",
