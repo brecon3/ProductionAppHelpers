@@ -1,7 +1,7 @@
 [
     {
         "appName":"MSD",
-        "version":"3.3",
-        "criticality": "N"
+        "version":"3.3.1",
+        "criticality": "Y"
     }
 ]
